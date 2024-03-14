@@ -1,2 +1,2 @@
 # teste
-exercício 1 em c, exercício 2 em js
+exercício 2 em c, exercício 5 em js
